@@ -198,6 +198,18 @@ Contributions welcome! Ideas:
 
 ---
 
+## ⚠️ Usage Restrictions
+
+**STRICTLY PROHIBITED FOR SALE** - Jangan Dijual
+
+This software is provided for **free and non-commercial use only**. 
+
+**Selling, reselling, or commercializing this software or any derivative works is strictly prohibited.**
+
+For commercial use inquiries, please contact the Yuzz Contributors.
+
+---
+
 ## 📜 License
 
 MIT © 2026 Yuzz Contributors
