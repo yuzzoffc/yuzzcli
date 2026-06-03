@@ -1,3 +1,5 @@
+
+````markdown name=README.md url=https://github.com/yuzzoffc/yuzzcli/blob/main/README.md
 # ⚡ Yuzz CLI
 
 <div align="center">
@@ -42,8 +44,8 @@
 npm install -g yuzz-cli
 
 # Or clone from GitHub
-git clone https://github.com/YOUR_USERNAME/yuzz-cli.git
-cd yuzz-cli
+git clone https://github.com/yuzzoffc/yuzzcli.git
+cd yuzzcli
 npm install
 npm link
 ```
@@ -162,8 +164,8 @@ yuzz config   # View all settings
 ## 🛠️ Development
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/yuzz-cli.git
-cd yuzz-cli
+git clone https://github.com/yuzzoffc/yuzzcli.git
+cd yuzzcli
 npm install
 node src/index.js   # Run directly
 ```
@@ -200,10 +202,11 @@ Contributions welcome! Ideas:
 
 ## 📜 License
 
-MIT © Yuzz Contributors
+MIT © 2026 Yuzz Contributors
 
 ---
 
 <div align="center">
 Made with ❤️ for terminal lovers
 </div>
+````
