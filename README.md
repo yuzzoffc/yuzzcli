@@ -1,5 +1,3 @@
-
-````markdown name=README.md url=https://github.com/yuzzoffc/yuzzcli/blob/main/README.md
 # ⚡ Yuzz CLI
 
 <div align="center">
@@ -209,4 +207,3 @@ MIT © 2026 Yuzz Contributors
 <div align="center">
 Made with ❤️ for terminal lovers
 </div>
-````
