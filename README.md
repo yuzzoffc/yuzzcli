@@ -21,6 +21,12 @@
 
 ---
 
+## ⚠️ IMPORTANT NOTICE
+
+**🚫 STRICTLY PROHIBITED: This software is FREE and open source. You are ABSOLUTELY FORBIDDEN from selling, distributing for profit, or commercializing this project in any way without explicit permission from the original author. Violations will be pursued legally.**
+
+---
+
 ## ✨ Features
 
 - 🆓 **100% Free** — Google Gemini free tier & free OpenRouter models
