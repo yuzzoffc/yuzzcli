@@ -15,7 +15,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-violet.svg)](LICENSE)
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-green)](https://nodejs.org)
-[![Version](https://img.shields.io/badge/version-1.1.0-blue)](package.json)
+[![Version](https://img.shields.io/badge/version-1.2.1-blue)](package.json)
 
 </div>
 
@@ -23,7 +23,7 @@
 
 ## ⚠️ IMPORTANT NOTICE
 
-**🚫 STRICTLY PROHIBITED: This software is FREE and open source. You are ABSOLUTELY FORBIDDEN from selling, distributing for profit, or commercializing this project in any way without explicit permission from the original author. Violations will be pursued legally.**
+**🚫 STRICTLY PROHIBITED: This software is FREE and open source. You are ABSOLUTELY FORBIDDEN from selling, distributing for profit, or commercializing this project in any way without explicit permission from the authors.**
 
 ---
 
