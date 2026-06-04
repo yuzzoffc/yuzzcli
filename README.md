@@ -192,7 +192,7 @@ yuzz-cli/
 
 ## 📜 License
 
-MIT © Yuzz Contributors
+MIT © 2026 Yuzz Contributors
 
 ---
 
